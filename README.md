@@ -5,7 +5,7 @@ EMI calculator helps calculate the amount with its interest rate that a buyer ne
 **Assignment Problem:**
 EMI CalculatorWe all have come across the term EMI in everyday life. While buying any product, we get an option of the EMI Payment method. The full form of EMI is Equated Monthly Instalment. Through this, one must pay a specific sum to the seller on a fixed date each month with a fixed interest rate. EMI calculator helps calculate the amount with its interest rate that a buyer needs to pay to the seller.
 
-**Factors affecting EMIEMI of a loan have three major factors on which it depends:**
+**Factors affecting EMI of a loan have three major factors on which it depends:**
 Loan Amount: This stands for the total amount or the principal amount that the individual has borrowed.
 Interest Rate: It is a rate at which the interest is charged on the amount borrowed.
 Tenure of the Loan: It is an agreed loan repayment time frame between the borrower and the lender.
